@@ -2,15 +2,18 @@
 body{
 	background-color: #f5f5f5;
 }
-main{
+.main-container{
 	padding: 10px;
-	background-color: #f5f5f5;
-}
-h1{
-	padding:20px;
-	border: 1px;
 	background-color: white;
 }
+
+.testimonial{
+	padding: 10px solid black;
+}
 .text{
-	
+	font-size: 15px;
+}
+.author{
+	text-align: right;
+	font-style: italic;
 }
